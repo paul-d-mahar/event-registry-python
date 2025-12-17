@@ -2,6 +2,7 @@ Event Registry is a Python package that can be used to easily access the news da
 
 ## Installation
 
+
 Event Registry package can be installed using Python's pip installer. In the command line, simply type:
 
     pip install eventregistry
